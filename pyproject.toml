@@ -6,8 +6,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fileunity_workbooks"
-version = "0.1.0"
-description = "fileunity_workbooks"
+version = "0.1.1"
+description = "fileunity for openpyxl workbooks"
 readme = "README.rst"
 authors = [
     { name = "Johannes", email = "johannes-programming@posteo.org" },
